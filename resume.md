@@ -1,13 +1,14 @@
-Markdown Resumé
+John Chee
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+[chee@cs.pdx.edu](mailto:chee@cs.pdx.edu) | 971 222 7233
+[http://web.cecs.pdx.edu/~chee/](http://web.cecs.pdx.edu/~chee/)
+San Francisco, California
 
 Interests
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
+*   Understanding abstractions, applying them in practice. Writing simple code.
 
 
 Work Experience
@@ -52,20 +53,45 @@ Work Experience
     -   Use a text-based resumé when needed in a pinch
     -   Use version control, including free hosting on Github
 
+## Education
 
-Education
----------
+*   **Portland State University**, Portland Oregon
 
-*   **Github University** (World Wide Web)
-
-    B.S. in Submodules, May 2012
+    M.S. in Computer Science, GPA: 3.78, June 2009
 
 
-Skills
+*   **Portland State University**, Portland Oregon
+
+    B.S. in Computer Science; Minor: Mathematics, _Cum Laude_, March 2008
+
+
+*   **Portland Community College**, Portland Oregon
+
+    A.S., June 2004
+
+## Awards
+
+* President's List, Portland State University, Winter 2007 -- Summer 2007
+
+* Dean's List, Portland State University, Spring 2006 -- Fall 2006
+
+## Service
+
+### Professional Service
+* Treasurer, ACM Student Chapter, Portland State University, April 2006 -- March 2008
+
+### Community Service
+* Classroom Assistant: ESL, Sunset Presbyterian Church, April 2004 -- April 2006
+
+* Elementary Sunday School Teacher, New Community Baptist Church, May 2013 -- present
+
+Languages
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
+*   Haskell, bash, Python
 
 
+Tools
+------
+
+*   vim, git, bash
