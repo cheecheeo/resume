@@ -8,10 +8,10 @@ San Francisco, California
 Interests
 ---------
 
-*   Understanding abstractions, applying them in practice. Writing simple code.
+*   Programming languages. Understanding abstractions, applying them in practice. Writing simple code.
 
 
-Work Experience
+Professional Experience
 ---------------
 
 *   **Word Processor** (Redmond, WA)
@@ -53,6 +53,30 @@ Work Experience
     -   Use a text-based resumé when needed in a pinch
     -   Use version control, including free hosting on Github
 
+Research
+---------------
+* **Portland State University, Department of Computer Science** (Portland, Oregon)
+
+    Research Assistant: [Project 10-9](http://web.cecs.pdx.edu/~warren/project10-9/), January 2007 -- August 2009
+
+    - As a research assistant on [Project 10-9, an Open Voice Bridge](http://wiki.cs.pdx.edu/10-9/), I worked on a team to integrate [CMUSphinx](http://cmusphinx.sourceforge.net/) with an existing MS Access query tool. 10-9 is primarily developed using Java and Subversion.
+
+* **Portland State University, Department of Computer Science** (Portland, Oregon)
+
+    Computer Science Tutor, April -- December 2006
+    - As a computer science tutor, I helped undergraduate students with primary courses including: compilers, data structures, and computational structures. Most questions were about representing data structures in C++ and functional programming in Standard ML.
+
+* **Portland State University, Department of Civil Engineering** (Portland, Oregon)
+
+    Graduate Research Assistant: [ITS Lab](http://its.pdx.edu/), January 2008 -- August 2009
+
+    - As a graduate research assistant, I classiffied and discovered data gaps, automated daily discovery of erroneous readings, and began work on a time dependent view of overall transit system health. I primarily used PHP, SQL, and Haskell to discover and present the information.
+
+* **Portland State University, Department of Civil Engineering** (Portland, Oregon)
+
+    Undergraduate Research Assistant: [ITS Lab](http://its.pdx.edu/), November 2006 -- December 2008
+    - As an undergraduate research assistant on the [Portland Oregon Regional Transportation Archive Listing (PORTAL)](http://portal.its.pdx.edu/Portal/index.php/home/) project, I created a web application displaying archived public transit system data on a Google map. I also helped process, aggregate, and query traffic data.
+
 ## Education
 
 *   **Portland State University**, Portland Oregon
@@ -68,6 +92,26 @@ Work Experience
 *   **Portland Community College**, Portland Oregon
 
     A.S., June 2004
+
+## Published Proceedings
+Berkow, M., Chee, J., Bertini, R.L., and Monsere, C., "Transit Performance Measurement and Arterial
+Travel Time Estimation Using Archived AVL Data," Compendium of Technical Papers, Institute of
+Transportation Engineers, District 6 Annual Meeting, Portland, Oregon, July 15 -- 18, 2007.
+
+## Professional Activities
+### Professional Memberships
+* [Association for Computing Machinery](http://www.acm.org), 2006 -- 2008
+
+### Conferences & Gatherings Attended
+* [BayHac, Bay Area Haskell Hackathon](http://www.haskell.org/haskellwiki/BayHac2014), 2011 -- 2014
+
+* [Haskell Hackers at the Hacker Dojo](http://www.meetup.com/haskellhackersathackerdojo/), 2012 -- 2014
+
+* International Conference on Functional Programming, 2013
+
+* Bay Area Haskell Users Group, 2011 -- 2012
+
+* Commercial Users of Functional Programming, 2010
 
 ## Awards
 
@@ -94,4 +138,8 @@ Languages
 Tools
 ------
 
-*   vim, git, bash
+*   vim, git, bash, linux
+
+\center Last updated: \today
+
+[http://web.cecs.pdx.edu/~chee/cv.pdf](http://web.cecs.pdx.edu/~chee/cv.pdf)
