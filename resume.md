@@ -1,4 +1,4 @@
-John Chee
+John Alfred Nathanael Chee
 ===============
 
 [chee@cs.pdx.edu](mailto:chee@cs.pdx.edu) | 971 222 7233
