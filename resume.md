@@ -8,50 +8,34 @@ San Francisco, California
 Interests
 ---------
 
-*   Programming languages. Understanding abstractions, applying them in practice. Writing simple code.
+*   Understanding abstractions, applying them in practice. Writing simple code. Writing robust code.
 
 
 Professional Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+* **Twitter** (San Francisco, California)
 
-    Junior Resumé Maker, 2006 - 2007
+    Software Engineer, January 2013 -- Present
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+* **MyLife** (Mountain View, California)
 
-*   **\LaTeX\ + pdflatex**
+    Software Engineer, May 2010 -- January 2013
 
-    Senior Resumé Maker, 2008 - 2010
+    - As a Software Engineer, I accepted the task of development, automation and deployment of our search service to our front end team. This involved developing expertise with Hadoop, Lucene and an internal MapReduce ow control tool. I developed a scalable Hadoop-based geocoding solution for our document corpus. I advocated for the use of open standards (HTTP, JSON and Thrift) and modern source control (Git).
+    - As MyLife's current and future needs became apparent, I developed a low latency, highly available and scalable search solution based on Cassandra and Solr. MyLife's new search platform removed the need for deployment of Lucene indexes, which effectively eliminated delivery of our search service. The search service was always up to date within the past 10 minutes. The new search service was an HTTP based service-oriented-architecture written primarily in Python using capistrano for deployment and [Supervisor](http://supervisord.org/) for administration.
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+* **Prospectus Group** (Portland, Oregon)
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+    Systems Administrator, March 2006 -- August 2006
 
-    Web Resumé Intern, August 2010
+    - As a systems administrator, I installed and configured a small secure network of 5 Linux servers. I also managed our production website with a perl-based Content Management System.
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+* **Pacific Benefits Group**
 
-*   **Markdown with Pandoc**
+    Information Technology Intern, November 2005 -- March 2006
 
-    Resumé Architect, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    - As an information technology intern, I built, installed, and configured 50 workstations. Additionally, I managed specialized insurance data mining tools.
 
 Research
 ---------------
@@ -79,17 +63,17 @@ Research
 
 ## Education
 
-*   **Portland State University**, Portland Oregon
+*   **Portland State University**, Portland, Oregon
 
-    M.S. in Computer Science, GPA: 3.78, June 2009
+    M.S. in Computer Science; Advisor: [Bart Massey](http://web.cecs.pdx.edu/~bart/), GPA: 3.78, June 2009
 
 
-*   **Portland State University**, Portland Oregon
+*   **Portland State University**, Portland, Oregon
 
     B.S. in Computer Science; Minor: Mathematics, _Cum Laude_, March 2008
 
 
-*   **Portland Community College**, Portland Oregon
+*   **Portland Community College**, Portland, Oregon
 
     A.S., June 2004
 
@@ -127,7 +111,7 @@ Transportation Engineers, District 6 Annual Meeting, Portland, Oregon, July 15 -
 ### Community Service
 * Classroom Assistant: ESL, Sunset Presbyterian Church, April 2004 -- April 2006
 
-* Elementary Sunday School Teacher, New Community Baptist Church, May 2013 -- present
+* Elementary Sunday School Teacher, New Community Baptist Church, May 2013 -- Present
 
 Languages
 ------
