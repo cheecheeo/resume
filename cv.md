@@ -22,8 +22,8 @@ Professional Experience
 
     Software Engineer, May 2010 -- January 2013
 
-    - As a Software Engineer, I accepted the task of development, automation and deployment of our search service to our front end team. This involved developing expertise with Hadoop, Lucene and an internal MapReduce ow control tool. I developed a scalable Hadoop-based geocoding solution for our document corpus. I advocated for the use of open standards (HTTP, JSON and Thrift) and modern source control (Git).
-    - As MyLife's current and future needs became apparent, I developed a low latency, highly available and scalable search solution based on Cassandra and Solr. MyLife's new search platform removed the need for deployment of Lucene indexes, which effectively eliminated delivery of our search service. The search service was always up to date within the past 10 minutes. The new search service was an HTTP based service-oriented-architecture written primarily in Python using capistrano for deployment and [Supervisor](http://supervisord.org/) for administration.
+    - As a Software Engineer, I accepted the task of development, automation and deployment of our search service to our front end team. This involved developing expertise with Hadoop, Lucene and an internal MapReduce flow control tool. I developed a scalable Hadoop-based geocoding solution for our document corpus. I advocated for the use of open standards (HTTP, JSON and Thrift) and modern source control (Git).
+    - As MyLife's current and future needs became apparent, I developed a low latency, highly available and scalable search solution based on Cassandra and Solr. MyLife's new search platform removed the need for deployment of Lucene indexes, which effectively eliminated high-latency delivery of our search service. The search service was always up to date within the past 10 minutes. The new search service was an HTTP based service-oriented-architecture written primarily in Python using capistrano for deployment and [Supervisor](http://supervisord.org/) for administration.
 
 * **Prospectus Group** (Portland, Oregon)
 
@@ -45,16 +45,16 @@ Research
 
     - As a research assistant on [Project 10-9, an Open Voice Bridge](http://wiki.cs.pdx.edu/10-9/), I worked on a team to integrate [CMUSphinx](http://cmusphinx.sourceforge.net/) with an existing MS Access query tool. 10-9 is primarily developed using Java and Subversion.
 
-* **Portland State University, Department of Computer Science** (Portland, Oregon)
-
-    Computer Science Tutor, April -- December 2006
-    - As a computer science tutor, I helped undergraduate students with primary courses including: compilers, data structures, and computational structures. Most questions were about representing data structures in C++ and functional programming in Standard ML.
-
 * **Portland State University, Department of Civil Engineering** (Portland, Oregon)
 
     Graduate Research Assistant: [ITS Lab](http://its.pdx.edu/), January 2008 -- August 2009
 
     - As a graduate research assistant, I classiffied and discovered data gaps, automated daily discovery of erroneous readings, and began work on a time dependent view of overall transit system health. I primarily used PHP, SQL, and Haskell to discover and present the information.
+
+* **Portland State University, Department of Computer Science** (Portland, Oregon)
+
+    Computer Science Tutor, April 2006 -- December 2006
+    - As a computer science tutor, I helped undergraduate students with primary courses including: compilers, data structures, and computational structures. Most questions were about representing data structures in C++ and functional programming in Standard ML.
 
 * **Portland State University, Department of Civil Engineering** (Portland, Oregon)
 
@@ -109,9 +109,9 @@ Transportation Engineers, District 6 Annual Meeting, Portland, Oregon, July 15 -
 * Treasurer, ACM Student Chapter, Portland State University, April 2006 -- March 2008
 
 ### Community Service
-* Classroom Assistant: ESL, Sunset Presbyterian Church, April 2004 -- April 2006
-
 * Elementary Sunday School Teacher, New Community Baptist Church, May 2013 -- Present
+
+* Classroom Assistant: ESL, Sunset Presbyterian Church, April 2004 -- April 2006
 
 Languages
 ------
