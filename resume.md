@@ -18,9 +18,9 @@ Experience
 
     Software Engineer, January 2013 -- Present
 
+    - Deployments
     - Build systems
     - Timeseries aggregations
-    - Deployments
 
 * **MyLife** (Mountain View, California)
 
