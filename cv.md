@@ -3,7 +3,7 @@ John Alfred Nathanael Chee
 
 [chee@cs.pdx.edu](mailto:chee@cs.pdx.edu) | 971 222 7233
 [http://web.cecs.pdx.edu/~chee/](http://web.cecs.pdx.edu/~chee/)
-San Francisco, California
+Redwood City, California
 
 Interests
 ---------
@@ -14,9 +14,29 @@ Interests
 Professional Experience
 ---------------
 
+* **San Mateo Community College District** (Redwood City, California)
+
+    Student, August 2017 -- May 2019
+
+    - I pursued life sciences to build a competitive medical school application.
+    - Biology courses: Principles of Biology, Biology of organisms, Cell & molecular biology, Biochemistry (at UC Berkeley extension)
+    - Chemistry courses: General chemistry, Organic chemistry
+
+* **Snowflake Computing** (San Mateo, California)
+
+    Software Engineer Automation & Tools, April 2016 -- August 2017
+
+    - Working with the Automation & Tools team at Snowflake I initiated adoption of reproducible, versionable, reviewable Jenkins job descriptions with the [jobs dsl plugin](https://github.com/jenkinsci/job-dsl-plugin).
+    - I secured & isolated Jenkins using its off the shelf LDAP security integration and an in-house [Vault](https://www.vaultproject.io)-inspired authentication tool.
+    - I managed & advised OSS teams transitioning from internal source & build tools to Github & Travis CI.
+
 * **Twitter** (San Francisco, California)
 
-    Software Engineer, January 2013 -- Present
+    Software Engineer, January 2013 -- March 2016
+
+    - As a Software Engineer on the developer productivity team at Twitter I contributed to [Pants](https://www.pantsbuild.org/) Twitter's monolithic build system.
+    - As a member of the platform intelligence team I contributed to [TSAR](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html) the Time Series AggregatoR. During my time on Platform Intelligence I also took the opportunity to contribute to the [Algebird](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html) project TSAR relied upon for its probabilistic data structures.
+    - On the [chargeback](https://www.linux.com/blog/twitters-chargeback-system-measures-resource-use-and-sends-out-bill) team at Twitter I co-architected a datawarehouse to store facts related to usage and user and project identification. Additionally, I built a simple data gathering system that extracted raw chargeback-related data from a diverse population of systems.
 
 * **MyLife** (Mountain View, California)
 
@@ -88,29 +108,26 @@ Transportation Engineers, District 6 Annual Meeting, Portland, Oregon, July 15 -
 
 ### Conferences & Gatherings Attended
 * [BayHac, Bay Area Haskell Hackathon](http://www.haskell.org/haskellwiki/BayHac2014), 2011 -- 2014
-
 * [Haskell Hackers at the Hacker Dojo](http://www.meetup.com/haskellhackersathackerdojo/), 2012 -- 2014
-
 * International Conference on Functional Programming, 2013
-
 * Bay Area Haskell Users Group, 2011 -- 2012
-
 * Commercial Users of Functional Programming, 2010
 
 ## Awards
 
 * President's List, Portland State University, Winter 2007 -- Summer 2007
-
 * Dean's List, Portland State University, Spring 2006 -- Fall 2006
 
 ## Service
 
 ### Professional Service
+* Secretary, Pre-med/Biomedical Research Club, Cañada College, January 2018 -- May 2018
 * Treasurer, ACM Student Chapter, Portland State University, April 2006 -- March 2008
 
 ### Community Service
+* Patient Advocate, RealOptions Obria Medical Clinics, April 2019 -- Present
+* Awana T&T Director, New Community Baptist Church, August 2017 -- Present
 * Elementary Sunday School Teacher, New Community Baptist Church, May 2013 -- Present
-
 * Classroom Assistant: ESL, Sunset Presbyterian Church, April 2004 -- April 2006
 
 Languages
