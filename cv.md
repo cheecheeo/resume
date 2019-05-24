@@ -1,7 +1,7 @@
 John Alfred Nathanael Chee
 ===============
 
-[chee@cs.pdx.edu](mailto:chee@cs.pdx.edu) | 971 222 7233
+[johnanchee@gmail.com](mailto:johnanchee@gmail.com) | 262 674 7476
 [http://web.cecs.pdx.edu/~chee/](http://web.cecs.pdx.edu/~chee/)
 Redwood City, California
 
