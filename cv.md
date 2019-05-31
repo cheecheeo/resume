@@ -1,14 +1,14 @@
 John Alfred Nathanael Chee
 ===============
 
-[chee@cs.pdx.edu](mailto:chee@cs.pdx.edu) | 971 222 7233
+[johnanchee@gmail.com](mailto:johnanchee@gmail.com) | [(262) 674-7476](tel:+1-262-674-7476)
 [http://web.cecs.pdx.edu/~chee/](http://web.cecs.pdx.edu/~chee/)
 Redwood City, California
 
 Interests
 ---------
 
-*   Understanding abstractions, applying them in practice. Writing simple code. Writing robust code.
+*   Oncology, Optimal Health, Human Flourishing.
 
 
 Professional Experience
@@ -129,17 +129,6 @@ Transportation Engineers, District 6 Annual Meeting, Portland, Oregon, July 15 -
 * Awana T&T Director, New Community Baptist Church, August 2017 -- Present
 * Elementary Sunday School Teacher, New Community Baptist Church, May 2013 -- Present
 * Classroom Assistant: ESL, Sunset Presbyterian Church, April 2004 -- April 2006
-
-Languages
-------
-
-*   Haskell, bash, Python
-
-
-Tools
-------
-
-*   vim, git, bash, linux
 
 \center Last updated: \today
 
