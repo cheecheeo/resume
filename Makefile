@@ -19,7 +19,8 @@ html:  clean $(HTML)
 	pandoc -t html -o $@ $< -c resume.css
 
 %.pdf:	%.md
-	md2pdf $< $(basename $<).pdf
+	pandoc --template=$(LATEX_TEMPLATE) -H $(basename $<)_header.tex -o pandoc_$@ $<
+	md2pdf $< md2pdf_$@
 
 ifeq ($(OS),Windows_NT)
   # on Windows
