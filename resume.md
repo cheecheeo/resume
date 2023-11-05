@@ -1,9 +1,9 @@
 John Alfred Nathanael Chee
 ===============
 
-[chee@cs.pdx.edu](mailto:chee@cs.pdx.edu) | 971 222 7233
+[chee@cs.pdx.edu](mailto:chee@cs.pdx.edu) | 262 674 7476
 [http://web.cecs.pdx.edu/~chee/](http://web.cecs.pdx.edu/~chee/)
-San Francisco, California
+Redwood City, California
 
 Interests
 ---------
