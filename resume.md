@@ -1,9 +1,8 @@
 John Alfred Nathanael Chee
 ===============
 
-[chee@cs.pdx.edu](mailto:chee@cs.pdx.edu) | 262 674 7476
-[http://web.cecs.pdx.edu/~chee/](http://web.cecs.pdx.edu/~chee/)
-Redwood City, California
+TODO center the next line
+[johnanchee@gmail.com](mailto:johnanchee@gmail.com) | [(262) 674-7476](tel:+1-262-674-7476) | Redwood City, California
 
 Interests
 ---------
@@ -13,6 +12,14 @@ Interests
 
 Experience
 ---------------
+
+* **Snowflake** (San Mateo, California)
+
+    TODO Software Engineer, January 2013 -- Present
+
+    - Deployments
+    - Build systems
+    - Timeseries aggregations
 
 * **Twitter** (San Francisco, California)
 
