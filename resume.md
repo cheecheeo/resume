@@ -28,7 +28,7 @@ Experience
     - Working with the Automation & Tools team at Snowflake I initiated adoption of reproducible, versionable, code reviewable Jenkins job descriptions with the [jobs dsl plugin](https://github.com/jenkinsci/job-dsl-plugin).
     - Conducted the automated build and test of the main Snowflake products: database, user interface, and database drivers for both Windows and Unix-like operating systems.
     - Secured & isolated Jenkins using its off the shelf LDAP security integration and an in-house [Vault](https://www.vaultproject.io)-inspired authentication tool.
-    - Managed & advised OSS teams transitioning from internal source & build tools to Github & Travis CI.
+    - Managed & advised OSS teams transitioning from Subversion & Jenkins to Github & Travis CI.
 
 * **Twitter** (San Francisco, California)
 
