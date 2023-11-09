@@ -36,31 +36,15 @@ Experience
 
     - Contributed to [Pants](https://www.pantsbuild.org/), Twitter's monolithic repository build system.
     - Contributed to [TSAR](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html), an Apache Spark-like, Time Series AggregatoR, and its dependent probabilistic data structures project, [Algebird](https://twitter.github.io/algebird/) during my time with Platform Intelligence.
-    - Co-architected a data warehouse to store facts related to CPU and RAM usage, and user and service identification on the [chargeback](https://www.linux.com/blog/twitters-chargeback-system-measures-resource-use-and-sends-out-bill) team. I also built an elegantly simple extraction, transformation, and loading system receiving raw and inconsistent chargeback data from a myriad of systems.
+    - Co-architected a data warehouse to store per service CPU and RAM usage, and user and service identification enabling [chargeback](https://www.linux.com/blog/twitters-chargeback-system-measures-resource-use-and-sends-out-bill). I also built its elegantly simple ETL system.
 
 * **MyLife** (Mountain View, California)
 
     Software Engineer, May 2010 -- January 2013
 
-    - Improved publication turnaround from monthly to 10 minutes of our primary data product
-    - Implemented a JSON-sensitive diff to immensely simplify data quality checking
-    - Used QuickCheck as a test case generator to characterize system performance
-    - Developed a scalable geocoding system using MapReduce
-
-* **Portland State University, Departments of Civil Engineering, Computer Science** (Portland, Oregon)
-
-    TODO delete this section i think -- keep it all in the CV
-    Research Assistant: [ITS Lab](http://its.pdx.edu/), November 2006 -- August 2009
-
-    - Developed new features for [PORTAL](http://portal.its.pdx.edu) using AJAX, PostgreSQL, PHP, and Python
-    - Managed several database tables with millions of records
-    - Co-authored and presented Transit Performance Measurement and Arterial Travel Time Estimation Using Archived AVL Data
-    - Developed a Google Maps-application that intuitively displays archived TriMet data
-
-    Research Assistant: [Project 10-9](http://web.cecs.pdx.edu/~warren/project10-9/), January 2007 -- August 2009
-
-    - Developed [Project 10-9, an Open Voice Bridge](http://wiki.cs.pdx.edu/10-9/), using Java, Subversion and [CMUSphinx](http://cmusphinx.sourceforge.net/)
-    - Demonstrated Project 10-9 to focus groups and integrated feedback into future versions.
+    - Improved publication turnaround from monthly to 10 minutes of our primary data product.
+    - Implemented a JSON-sensitive diff to immensely simplify data quality checking.
+    - Combined QuickCheck and siege to characterize whole system performance.
 
 ## Education
 
