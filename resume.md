@@ -1,8 +1,9 @@
 John Alfred Nathanael Chee
 ===============
 
-TODO keep to one page
-\center [johnanchee@gmail.com](mailto:johnanchee@gmail.com) | [(262) 674-7476](tel:+1-262-674-7476) | Redwood City, California
+\center
+
+[johnanchee@gmail.com](mailto:johnanchee@gmail.com) | [(262) 674-7476](tel:+1-262-674-7476) | Redwood City, California
 
 Interests
 ---------
@@ -12,31 +13,30 @@ Interests
 Experience
 ---------------
 
-TODO - STAR method * 2 and then one descriptive, systemic, overall entry
-
 * **Recent Pursuits** (Redwood City, California)
 
     Pre-medical student, August 2017 -- August 2023
 
-    - Completed pre-medical prerequsite classes at Cañada college and UC Berkeley including Organismal, Cell, and Molecular Biology; General, Organic, and Biological chemistry from Fall 2017 -- Spring 2019
-    - Volunteered at RealOptions Obria Medical Clinics providng Optimal Health to male patients. Reflectively listened, encouraged, and advised patients to take responsibility for their sexual health. I see one to two male patients weekly seeking STI treatment or crisis pregnancy options. Additional front office duties. february 2019 - september 2021
-    - Applied and interviewed at Medical schools throughout the United schools for MD, Post-baccalaureate, and Master's programs.
+    - Completed pre-medical prerequsite classes at Cañada college and UC Berkeley including Organismal, Cell, and Molecular Biology; and General, Organic, and Biological chemistry from Fall 2017 -- Spring 2019
+    - Volunteered at RealOptions Obria Medical Clinics providng Optimal Health to one to two male patients per week, encouraging and advising patients to take responsibility for their sexual health. Patients sought STI treatment or crisis pregnancy options. I also performed secretarial and other front office duties. February 2019 -- September 2021
+    - Applied and interviewed for MD, Post-baccalaureate, and Master's programs at medical schools throughout the United States.
 
 * **Snowflake** (San Mateo, California)
 
-    TODO Software Engineer, April 2016 -- August 2017
+    Software Engineer, April 2016 -- August 2017
 
-    - Continuous integration, Jenkins. Build systems. Version control. releasing the main product and drivers for both Windows and Unix-like operating systems.
-    - Open source software engineering. github, licensing.
-    - OpsSec. worked closely with security team to securely build and deploy snowflake software.
+    - Working with the Automation & Tools team at Snowflake I initiated adoption of reproducible, versionable, code reviewable Jenkins job descriptions with the [jobs dsl plugin](https://github.com/jenkinsci/job-dsl-plugin).
+    - Conducted the automated build and test of the main Snowflake products: database, user interface, and database drivers for both Windows and Unix-like operating systems.
+    - Secured & isolated Jenkins using its off the shelf LDAP security integration and an in-house [Vault](https://www.vaultproject.io)-inspired authentication tool.
+    - Managed & advised OSS teams transitioning from internal source & build tools to Github & Travis CI.
 
 * **Twitter** (San Francisco, California)
 
     Software Engineer, January 2013 -- March 2016
 
-    - Deployments. Tracked deployments and expense tracking (RAM, CPU, Disk) for other telemetry. service identificiation, data warehouses, ETL.
-    - Build systems. Pants, Python, Scala, Gradle. monorepo
-    - Timeseries aggregations. Tsar, precursor to Apache Spark, probabalistic data Structures.
+    - Contributed to [Pants](https://www.pantsbuild.org/) Twitter's monolithic repository build system.
+    - Working as a member of the platform intelligence team I contributed to [TSAR](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html) the Time Series AggregatoR. During my time on Platform Intelligence I also took the opportunity to contribute to the [Algebird](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html) project TSAR relied upon for its probabilistic data structures. TSAR was eventually superseded by Apache Spark.
+    - On the [chargeback](https://www.linux.com/blog/twitters-chargeback-system-measures-resource-use-and-sends-out-bill) team at Twitter I co-architected a datawarehouse to store facts related to CPU and RAM usage, and user and service identification. Additionally, I built a simple data gathering system that extracted, transformed, and loaded raw chargeback-related data from a diverse population of systems in the chargeback data warehouse.
 
 * **MyLife** (Mountain View, California)
 
@@ -47,8 +47,7 @@ TODO - STAR method * 2 and then one descriptive, systemic, overall entry
     - Used QuickCheck as a test case generator to characterize system performance
     - Developed a scalable geocoding system using MapReduce
 
-TODO combine the next two into one
-* **Portland State University, Department of Civil Engineering** (Portland, Oregon)
+* **Portland State University, Department of Civil Engineering, Department of Computer Science** (Portland, Oregon)
 
     Research Assistant: [ITS Lab](http://its.pdx.edu/), November 2006 -- August 2009
 
@@ -56,8 +55,6 @@ TODO combine the next two into one
     - Managed several database tables with millions of records
     - Co-authored and presented Transit Performance Measurement and Arterial Travel Time Estimation Using Archived AVL Data
     - Developed a Google Maps-application that intuitively displays archived TriMet data
-
-* **Portland State University, Department of Computer Science** (Portland, Oregon)
 
     Research Assistant: [Project 10-9](http://web.cecs.pdx.edu/~warren/project10-9/), January 2007 -- August 2009
 
