@@ -35,7 +35,7 @@ Professional Experience
     Software Engineer, January 2013 -- March 2016
 
     - As a Software Engineer on the developer productivity team at Twitter I contributed to [Pants](https://www.pantsbuild.org/) Twitter's monolithic build system.
-    - As a member of the platform intelligence team I contributed to [TSAR](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html) the Time Series AggregatoR. During my time on Platform Intelligence I also took the opportunity to contribute to the [Algebird](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html) project TSAR relied upon for its probabilistic data structures.
+    - As a member of the platform intelligence team I contributed to [TSAR](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html) the Time Series AggregatoR. During my time on Platform Intelligence I also took the opportunity to contribute to the [Algebird](https://twitter.github.io/algebird/) project TSAR relied upon for its probabilistic data structures.
     - On the [chargeback](https://www.linux.com/blog/twitters-chargeback-system-measures-resource-use-and-sends-out-bill) team at Twitter I co-architected a datawarehouse to store facts related to usage and user and project identification. Additionally, I built a simple data gathering system that extracted raw chargeback-related data from a diverse population of systems.
 
 * **MyLife** (Mountain View, California)
