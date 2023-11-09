@@ -44,6 +44,7 @@ Professional Experience
 
     - As a Software Engineer, I accepted the task of development, automation and deployment of our search service to our front end team. This involved developing expertise with Hadoop, Lucene and an internal MapReduce flow control tool. I developed a scalable Hadoop-based geocoding solution for our document corpus. I advocated for the use of open standards (HTTP, JSON and Thrift) and modern source control (Git).
     - As MyLife's current and future needs became apparent, I developed a low latency, highly available and scalable search solution based on Cassandra and Solr. MyLife's new search platform removed the need for deployment of Lucene indexes, which effectively eliminated high-latency delivery of our search service. The search service was always up to date within the past 10 minutes. The new search service was an HTTP based service-oriented-architecture written primarily in Python using capistrano for deployment and [Supervisor](http://supervisord.org/) for administration.
+    - I developed a scalable geocoding system using MapReduce and an in memory cash to vastly improve performance and minimize network calls.
 
 * **Prospectus Group** (Portland, Oregon)
 
@@ -59,6 +60,21 @@ Professional Experience
 
 Research
 ---------------
+* **Portland State University, Departments of Civil Engineering, Computer Science** (Portland, Oregon)
+
+    TODO clean up this section - don't worry about wasting space
+
+    Research Assistant: [ITS Lab](http://its.pdx.edu/), November 2006 -- August 2009
+
+    - Developed new features for [PORTAL](http://portal.its.pdx.edu) using AJAX, PostgreSQL, PHP, and Python
+    - Managed several database tables with millions of records
+    - Co-authored and presented Transit Performance Measurement and Arterial Travel Time Estimation Using Archived AVL Data
+    - Developed a Google Maps-application that intuitively displays archived TriMet data
+
+    Research Assistant: [Project 10-9](http://web.cecs.pdx.edu/~warren/project10-9/), January 2007 -- August 2009
+
+    - Developed [Project 10-9, an Open Voice Bridge](http://wiki.cs.pdx.edu/10-9/), using Java, Subversion and [CMUSphinx](http://cmusphinx.sourceforge.net/)
+    - Demonstrated Project 10-9 to focus groups and integrated feedback into future versions.
 * **Portland State University, Department of Computer Science** (Portland, Oregon)
 
     Research Assistant: [Project 10-9](http://web.cecs.pdx.edu/~warren/project10-9/), January 2007 -- August 2009
