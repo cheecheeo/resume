@@ -47,7 +47,7 @@ Experience
     - Used QuickCheck as a test case generator to characterize system performance
     - Developed a scalable geocoding system using MapReduce
 
-* **Portland State University, Department of Civil Engineering, Department of Computer Science** (Portland, Oregon)
+* **Portland State University, Departments of Civil Engineering, Computer Science** (Portland, Oregon)
 
     Research Assistant: [ITS Lab](http://its.pdx.edu/), November 2006 -- August 2009
 
