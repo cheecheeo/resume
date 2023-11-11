@@ -66,26 +66,21 @@ Research
 
     Research Assistant: [ITS Lab](http://its.pdx.edu/), November 2006 -- August 2009
 
-    - Developed new features for [PORTAL](http://portal.its.pdx.edu) using AJAX, PostgreSQL, PHP, and Python
-    - Managed several database tables with millions of records
-    - Co-authored and presented Transit Performance Measurement and Arterial Travel Time Estimation Using Archived AVL Data
-    - Developed a Google Maps-application that intuitively displays archived TriMet data
 
-    Research Assistant: [Project 10-9](http://web.cecs.pdx.edu/~warren/project10-9/), January 2007 -- August 2009
-
-    - Developed [Project 10-9, an Open Voice Bridge](http://wiki.cs.pdx.edu/10-9/), using Java, Subversion and [CMUSphinx](http://cmusphinx.sourceforge.net/)
-    - Demonstrated Project 10-9 to focus groups and integrated feedback into future versions.
 * **Portland State University, Department of Computer Science** (Portland, Oregon)
 
     Research Assistant: [Project 10-9](http://web.cecs.pdx.edu/~warren/project10-9/), January 2007 -- August 2009
 
     - As a research assistant on [Project 10-9, an Open Voice Bridge](http://wiki.cs.pdx.edu/10-9/), I worked on a team to integrate [CMUSphinx](http://cmusphinx.sourceforge.net/) with an existing MS Access query tool. 10-9 is primarily developed using Java and Subversion.
+    - Demonstrated Project 10-9 to focus groups and integrated feedback into future versions.
 
 * **Portland State University, Department of Civil Engineering** (Portland, Oregon)
 
     Graduate Research Assistant: [ITS Lab](http://its.pdx.edu/), January 2008 -- August 2009
 
     - As a graduate research assistant, I classiffied and discovered data gaps, automated daily discovery of erroneous readings, and began work on a time dependent view of overall transit system health. I primarily used PHP, SQL, and Haskell to discover and present the information.
+    - Co-authored and presented Transit Performance Measurement and Arterial Travel Time Estimation Using Archived AVL Data
+    - Managed several database tables with millions of records
 
 * **Portland State University, Department of Computer Science** (Portland, Oregon)
 
@@ -95,7 +90,7 @@ Research
 * **Portland State University, Department of Civil Engineering** (Portland, Oregon)
 
     Undergraduate Research Assistant: [ITS Lab](http://its.pdx.edu/), November 2006 -- December 2008
-    - As an undergraduate research assistant on the [Portland Oregon Regional Transportation Archive Listing (PORTAL)](http://portal.its.pdx.edu/Portal/index.php/home/) project, I created a web application displaying archived public transit system data on a Google map. I also helped process, aggregate, and query traffic data.
+    - As an undergraduate research assistant on the [Portland Oregon Regional Transportation Archive Listing (PORTAL)](http://portal.its.pdx.edu/Portal/index.php/home/) project, I created a web application using AJAX, PostgreSQL, PHP that displayed archived public transit system data on a Google map. I also helped process, aggregate, and query traffic data using Python.
 
 ## Education
 
