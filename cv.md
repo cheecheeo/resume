@@ -1,14 +1,14 @@
 John Alfred Nathanael Chee
 ===============
 
-[johnanchee@gmail.com](mailto:johnanchee@gmail.com) | [(262) 674-7476](tel:+1-262-674-7476)
-[http://web.cecs.pdx.edu/~chee/](http://web.cecs.pdx.edu/~chee/)
-Redwood City, California
+\begin{center}
+\href{mailto:johnanchee@gmail.com}{johnanchee@gmail.com} | \href{tel:+1-262-674-7476}{(262) 674-7476} | Redwood City, California
+\end{center}
 
 Interests
 ---------
 
-*   Oncology, Optimal Health, Human Flourishing.
+*   Understanding abstractions, applying them in practice. Writing simple code. Writing robust code.
 
 
 Professional Experience
@@ -60,13 +60,6 @@ Professional Experience
 
 Research
 ---------------
-* **Portland State University, Departments of Civil Engineering, Computer Science** (Portland, Oregon)
-
-    TODO clean up this section - don't worry about wasting space
-
-    Research Assistant: [ITS Lab](http://its.pdx.edu/), November 2006 -- August 2009
-
-
 * **Portland State University, Department of Computer Science** (Portland, Oregon)
 
     Research Assistant: [Project 10-9](http://web.cecs.pdx.edu/~warren/project10-9/), January 2007 -- August 2009
