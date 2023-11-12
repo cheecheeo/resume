@@ -9,12 +9,6 @@ all:    clean $(PDFS) $(HTML)
 pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
-#%.html: %.md
-#	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
-#
-#%.pdf:  %.md $(LATEX_TEMPLATE)
-#	python resume.py tex < $< | pandoc --template=$(LATEX_TEMPLATE) -H $(basename $<)_header.tex -o $@
-
 %.html:	%.md
 	pandoc -t html -o $@ $< -c resume.css
 
