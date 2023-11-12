@@ -129,7 +129,7 @@ Transportation Engineers, District 6 Annual Meeting, Portland, Oregon, July 15 -
 * Treasurer, ACM Student Chapter, Portland State University, April 2006 -- March 2008
 
 ### Community Service
-* Patient Advocate, RealOptions Obria Medical Clinics, April 2019 -- Present
+* Patient Advocate, RealOptions Obria Medical Clinics, February 2019 -- September 2021
 * Awana T&T Director, New Community Baptist Church, August 2017 -- Present
 * Elementary Sunday School Teacher, New Community Baptist Church, May 2013 -- Present
 * Classroom Assistant: ESL, Sunset Presbyterian Church, April 2004 -- April 2006
