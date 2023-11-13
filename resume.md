@@ -19,13 +19,13 @@ Experience
 
     - Completed Pre-medical classes at Cañada college and UC Berkeley: Organismal, Cell, & Molecular Biology; and General, Organic, & Biological chemistry from Fall 2017 -- Spring 2019
     - Provided Optimal Health coaching to male patients at RealOptions Obria Medical Clinics by encouraging and advising STI and crisis pregnancy patients from February 2019 -- September 2021
-    - Applied and interviewed for MD, Post-baccalaureate, and Master's programs at medical schools throughout the United States.
+    - Applied and interviewed for MD, Post-baccalaureate, and Master's programs at medical schools.
 
 * **Snowflake** (San Mateo, California)
 
     Software Engineer, April 2016 -- August 2017
 
-    - Working with the Automation & Tools team at Snowflake I initiated adoption of reproducible, versionable, code reviewable Jenkins job descriptions with the [jobs dsl plugin](https://github.com/jenkinsci/job-dsl-plugin).
+    - Working with the Automation & Tools team at Snowflake I initiated adoption of reproducible, versionable, code reviewable Jenkins job descriptions with the [Job DSL plugin](https://github.com/jenkinsci/job-dsl-plugin).
     - Conducted the automated build and test of the main Snowflake products: database, user interface, and database drivers for both Windows and Unix-like operating systems.
     - Secured & isolated Jenkins using its off the shelf LDAP security integration and an in-house [Vault](https://www.vaultproject.io)-inspired authentication tool.
     - Managed & advised OSS teams transitioning from Subversion & Jenkins to Github & Travis CI.
@@ -34,7 +34,7 @@ Experience
 
     Software Engineer, January 2013 -- March 2016
 
-    - Contributed to [Pants](https://www.pantsbuild.org/), Twitter's monolithic repository build system.
+    - Implemented version control related features in [Pants](https://www.pantsbuild.org/), Twitter's monolithic repository build system during my time with Developer Productivity.
     - Contributed to [TSAR](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html), an Apache Spark-like, Time Series AggregatoR, and its dependent probabilistic data structures project, [Algebird](https://twitter.github.io/algebird/) during my time with Platform Intelligence.
     - Co-architected a data warehouse to store per service CPU and RAM usage, and user and service identification enabling [chargeback](https://www.linux.com/blog/twitters-chargeback-system-measures-resource-use-and-sends-out-bill). I also built its elegantly simple ETL system.
 
