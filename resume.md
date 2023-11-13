@@ -17,7 +17,7 @@ Experience
 
     Pre-medical student, August 2017 -- August 2023
 
-    - Completed Pre-medical classes at Cañada college and UC Berkeley: Organismal, Cell, & Molecular Biology; and General, Organic, & Biological chemistry from Fall 2017 -- Spring 2019
+    - Completed pre-medical classes at Cañada college and UC Berkeley: Organismal, Cell, & Molecular Biology; and General, Organic, & Biological chemistry from Fall 2017 -- Spring 2019
     - Provided Optimal Health coaching to male patients at RealOptions Obria Medical Clinics by encouraging and advising STI and crisis pregnancy patients from February 2019 -- September 2021
     - Applied and interviewed for MD, Post-baccalaureate, and Master's programs at medical schools.
 
