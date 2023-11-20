@@ -27,3 +27,10 @@ separate contact lines in the output.
 By default, an image of your [Gravatar](http://www.gravatar.com) will be added
 to the HTML resumé.  This feature can be disabled by setting the environment
 variable `GRAVATAR_OPTION=--no-gravatar`.
+
+See Also
+--------
+
+https://github.com/vidluther/markdown-resume
+
+https://luther.io/projects/markdown-resume/
