@@ -32,5 +32,3 @@ See Also
 --------
 
 https://github.com/vidluther/markdown-resume
-
-https://luther.io/projects/markdown-resume/
