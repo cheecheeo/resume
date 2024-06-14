@@ -18,9 +18,11 @@ Professional Experience
 
     Student, August 2017 -- May 2019
 
-    - I pursued life sciences to build a competitive medical school application.
-    - Biology courses: Principles of Biology, Biology of organisms, Cell & molecular biology, Biochemistry (at UC Berkeley extension)
+    - Completed pre-medical classes at Cañada college and UC Berkeley.
+    - Biology courses: Principles of Biology, Biology of organisms, Cell & molecular biology, Biological chemistry (at UC Berkeley extension)
     - Chemistry courses: General chemistry, Organic chemistry
+    - Provided Optimal Health coaching to male patients at RealOptions Obria Medical Clinics by encouraging and advising STI and crisis pregnancy patients from February 2019 -- September 2021
+    - Applied and interviewed for MD, Post-baccalaureate, and Master's programs at medical schools.
 
 * **Snowflake Computing** (San Mateo, California)
 
