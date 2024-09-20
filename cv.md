@@ -16,6 +16,7 @@ Professional Experience
 
 * **San Mateo Community College District** (Redwood City, California)
 
+TODO move this to education???
     Student, August 2017 -- May 2019
 
     - Completed pre-medical classes at Cañada college and UC Berkeley.
@@ -23,6 +24,18 @@ Professional Experience
     - Chemistry courses: General chemistry, Organic chemistry
     - Provided Optimal Health coaching to male patients at RealOptions Obria Medical Clinics by encouraging and advising STI and crisis pregnancy patients from February 2019 -- September 2021
     - Applied and interviewed for MD, Post-baccalaureate, and Master's programs at medical schools.
+
+TODO move to community service???
+* **RealOptions Obria Medical Clinics** (San Jose, California)
+
+    Male Optimal Health Coach, February 2019 -- September 2021
+
+RealOptions Obria Medical Clinics focuses on Optimal Health: Physical, Emotional, Psychological, Spiritual, and Environmental health.
+Reflective listening is the core technique of patient advocates. After training and shadowing sessions, I was given the responsibility to
+lead male patient consultation. Consults include confidentiality disclosure, the patient explaining the reason for their visit, and feelings
+they are experiencing. I see one to two male patients weekly seeking STI treatment or crisis pregnancy options. Encouraging,
+understanding, and advising patients who are taking responsibility for their sexual health has deepened my desire to directly impact my
+patient’s lives.
 
 * **Snowflake Computing** (San Mateo, California)
 
