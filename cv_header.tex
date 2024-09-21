@@ -2,14 +2,14 @@
 \usepackage{microtype}
 \usepackage{tgpagella}
 \usepackage{titlesec}
-\usepackage[unicode]{hyperref}
+%\usepackage[unicode]{hyperref}
 \titleformat{\section}{\huge\bfseries}{\thesection}{1em}{}
 \titlespacing{\section}{0pt}{0pt}{1em}
 \titleformat{\subsection}{\large\bfseries\MakeUppercase}{\thesubsection}{1em}{}
 \hypersetup{
   colorlinks   = true, %Colours links instead of ugly boxes
-  urlcolor     = blue, %Colour for external hyperlinks
-  linkcolor    = blue, %Colour of internal links
+  urlcolor     = [RGB]{55, 100, 120}, %Colour for external hyperlinks
+  linkcolor    = [RGB]{55, 100, 120}, %Colour of internal links
 }
 
 %\usepackage{multicol}
@@ -39,4 +39,3 @@
   }
   {\par\vss\egroup\ht\zerobox=0pt \wd\zerobox=0pt \dp\zerobox=0pt
    \box\zerobox}
-
