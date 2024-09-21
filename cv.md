@@ -31,6 +31,7 @@ Professional Experience
     - Working with the Automation & Tools team at Snowflake I initiated adoption of reproducible, versionable, reviewable Jenkins job descriptions with the [jobs dsl plugin](https://github.com/jenkinsci/job-dsl-plugin).
     - I secured & isolated Jenkins using its off the shelf LDAP security integration and an in-house [Vault](https://www.vaultproject.io)-inspired authentication tool.
     - I managed & advised OSS teams transitioning from internal source & build tools to Github & Travis CI.
+    - Left Snowflake to pursue pre-medical coursework and apply to medical school.
 
 * **Twitter** (San Francisco, California)
 

@@ -8,7 +8,7 @@ John Alfred Nathanael Chee
 Interests
 ---------
 
-*   Understanding abstractions, applying them in practice. Writing simple code. Writing robust code.
+*   Understanding abstractions, applying them in practice. Writing simple and robust code.
 
 Experience
 ---------------
@@ -17,9 +17,8 @@ Experience
 
     Pre-medical student, August 2017 -- August 2023
 
-    - Completed pre-medical classes at Cañada college and UC Berkeley: Organismal, Cell, & Molecular Biology; and General, Organic, & Biological chemistry from Fall 2017 -- Spring 2019
-    - Provided Optimal Health coaching to male patients at RealOptions Obria Medical Clinics by encouraging and advising STI and crisis pregnancy patients from February 2019 -- September 2021
-    - Applied and interviewed for MD, Post-baccalaureate, and Master's programs at medical schools.
+    - Pursued a medical career path by completing pre-medical coursework at Cañada College and UC Berkeley (2017-2019), gaining hands-on experience through patient coaching at RealOptions Obria Medical Clinics (2019-2021), and actively applying to various medical education programs.
+    - Pivoted back into technology, recognizing my passion and strengths in the sector.
 
 * **Snowflake** (San Mateo, California)
 
@@ -29,6 +28,7 @@ Experience
     - Conducted the automated build and test of the main Snowflake products: database, user interface, and database drivers for both Windows and Unix-like operating systems.
     - Secured & isolated Jenkins using its off the shelf LDAP security integration and an in-house [Vault](https://www.vaultproject.io)-inspired authentication tool.
     - Managed & advised OSS teams transitioning from Subversion & Jenkins to Github & Travis CI.
+    - Left Snowflake to pursue medical career path.
 
 * **Twitter** (San Francisco, California)
 
