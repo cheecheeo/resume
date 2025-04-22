@@ -3,7 +3,7 @@ John Alfred Nathanael Chee
 
 \center
 
-[johnanchee@gmail.com](mailto:johnanchee@gmail.com) | [(262) 674-7476](tel:+1-262-674-7476) | Redwood City, California
+[johnanchee@gmail.com](mailto:johnanchee@gmail.com) | [(262) 674-7476](tel:+1-262-674-7476) | Portland, Oregon
 
 Interests
 ---------
