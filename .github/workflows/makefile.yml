@@ -21,3 +21,14 @@ jobs:
 
     - name: Install dependencies
       run: make
+
+    - name: Upload PDF and HTML artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: resume-files
+        path: |
+          resume.pdf
+          cv.pdf
+          resume.html
+          cv.html
+        retention-days: 5
