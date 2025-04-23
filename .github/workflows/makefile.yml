@@ -47,10 +47,19 @@ jobs:
         name: resume-files
         path: artifacts
         
+    - name: Create Tag
+      id: create_tag
+      run: |
+        DATE=$(date +'%Y%m%d-%H%M%S')
+        echo "tag=v$DATE" >> $GITHUB_OUTPUT
+        git tag v$DATE
+        git push origin v$DATE
+        
     - name: Create Release
       id: create_release
       uses: softprops/action-gh-release@v1
       with:
+        tag_name: ${{ steps.create_tag.outputs.tag }}
         files: |
           artifacts/resume.pdf
           artifacts/cv.pdf
