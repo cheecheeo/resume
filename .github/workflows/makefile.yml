@@ -32,3 +32,30 @@ jobs:
           resume.html
           cv.html
         retention-days: 5
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Download artifacts
+      uses: actions/download-artifact@v4
+      with:
+        name: resume-files
+        path: artifacts
+        
+    - name: Create Release
+      id: create_release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: |
+          artifacts/resume.pdf
+          artifacts/cv.pdf
+          artifacts/resume.html
+          artifacts/cv.html
+        generate_release_notes: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
