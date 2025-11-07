@@ -8,29 +8,43 @@ John Alfred Nathanael Chee
 Interests
 ---------
 
-*   Understanding abstractions, applying them in practice. Writing simple code. Writing robust code.
+*   Understanding abstractions, applying them in practice. Writing simple and robust code.
+
+### Skills
+*   **Programming Languages** -- Haskell, Python, bash, SQL
+*   **Development Environment** -- vim, git, nix, Linux
 
 
 Professional Experience
 ---------------
+* **Self-employed** (Portland, Oregon)
 
-* **San Mateo Community College District** (Redwood City, California)
+    Independent Software Specialist, Part-time, August 2023 -- Present
 
-    Student, August 2017 -- May 2019
+    - Developing an audiotheque app in the Protestant resourcement space, bringing Reformation authors and ideas into the 21st century.
+    - Also developing an offline-now, sync-later, privacy-first application to store all your memes.
+    - Provided ad hoc technical advising and support for Macintosh desktops and iPads, Google Workspace (Voice, Gmail, Groups primarily) for a 200+ user deployment.
+    - Contributed volunteer hours to the digital ministry of New Community Baptist Church, crafting and maintaining the website, YouTube live streams, and recordings.
+    - Maintainer of open-source Haskell projects: haskell-cgi (pure CGI bindings for Haskell) and stats (command-line statistics for plaintext numerical data) since 2016.
+    - Various GitHub contributions for proprietary and open-source projects: probabilistic data structures and automated build tools.
 
-    - Completed pre-medical classes at Cañada college and UC Berkeley.
-    - Biology courses: Principles of Biology, Biology of organisms, Cell & molecular biology, Biological chemistry (at UC Berkeley extension)
-    - Chemistry courses: General chemistry, Organic chemistry
-    - Provided Optimal Health coaching to male patients at RealOptions Obria Medical Clinics by encouraging and advising STI and crisis pregnancy patients from February 2019 -- September 2021
-    - Applied and interviewed for MD, Post-baccalaureate, and Master's programs at medical schools.
+* **RealOptions** (San José, California)
+
+    Optimal Health Coach, Part-time, February 2019 -- September 2021
+
+    - Provided Optimal Health coaching to male patients at RealOptions Obria Medical Clinics by encouraging and advising STI and crisis pregnancy patients.
+    - Maintained a clean and organized clinic environment by sanitizing exam rooms, restocking supplies, and preparing client care packages with essentials like hygiene products and educational materials, ensuring a welcoming and efficient space for clients.
+    - Entered and updated client intake data, medical histories, and service records in EMR systems, adhering to HIPAA regulations, while troubleshooting minor system issues to support seamless clinic operations.
+    - Documented client information and medical notes in paper-based charts, organizing and archiving records to ensure compliance with confidentiality and retention policies.
 
 * **Snowflake Computing** (San Mateo, California)
 
     Software Engineer Automation & Tools, April 2016 -- August 2017
 
-    - Working with the Automation & Tools team at Snowflake I initiated adoption of reproducible, versionable, reviewable Jenkins job descriptions with the [jobs dsl plugin](https://github.com/jenkinsci/job-dsl-plugin).
-    - I secured & isolated Jenkins using its off the shelf LDAP security integration and an in-house [Vault](https://www.vaultproject.io)-inspired authentication tool.
-    - I managed & advised OSS teams transitioning from internal source & build tools to Github & Travis CI.
+    - Working with the Automation & Tools team at Snowflake, I initiated adoption of reproducible, versionable, reviewable Jenkins job descriptions with the [jobs dsl plugin](https://github.com/jenkinsci/job-dsl-plugin).
+    - Conducted the automated build and test of the main Snowflake products: database, user interface, and database drivers for both Windows and Unix-like operating systems.
+    - Secured & isolated Jenkins using its off-the-shelf LDAP security integration and an in-house [Vault](https://www.vaultproject.io)-inspired authentication tool.
+    - Managed & advised OSS teams transitioning from internal source & build tools to GitHub & Travis CI.
     - Left Snowflake to pursue pre-medical coursework and apply to medical school.
 
 * **Twitter** (San Francisco, California)
@@ -38,28 +52,32 @@ Professional Experience
     Software Engineer, January 2013 -- March 2016
 
     - As a Software Engineer on the developer productivity team at Twitter I contributed to [Pants](https://www.pantsbuild.org/) Twitter's monolithic build system.
-    - As a member of the platform intelligence team I contributed to [TSAR](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html) the Time Series AggregatoR. During my time on Platform Intelligence I also took the opportunity to contribute to the [Algebird](https://twitter.github.io/algebird/) project TSAR relied upon for its probabilistic data structures.
-    - On the [chargeback](https://www.linux.com/blog/twitters-chargeback-system-measures-resource-use-and-sends-out-bill) team at Twitter I co-architected a datawarehouse to store facts related to usage and user and project identification. Additionally, I built a simple data gathering system that extracted raw chargeback-related data from a diverse population of systems.
+    - As a member of the platform intelligence team I contributed to [TSAR](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html), an Apache Spark-like, Time Series AggregatoR.
+    - During my time with Platform Intelligence I also took the opportunity to contribute to the [Algebird](https://twitter.github.io/algebird/) project TSAR relied upon for its probabilistic data structures.
+    - On the [chargeback](https://www.linux.com/blog/twitters-chargeback-system-measures-resource-use-and-sends-out-bill) team at Twitter I co-architected a data warehouse to store facts related to usage and user and project identification. Additionally, I built a simple data gathering system that extracted, transformed, and loaded raw chargeback-related data (CPU, RAM, telemetry) from a diverse population of systems to vertica and mysql data warehouses.
 
 * **MyLife** (Mountain View, California)
 
     Software Engineer, May 2010 -- January 2013
 
     - As a Software Engineer, I accepted the task of development, automation and deployment of our search service to our front end team. This involved developing expertise with Hadoop, Lucene and an internal MapReduce flow control tool. I developed a scalable Hadoop-based geocoding solution for our document corpus. I advocated for the use of open standards (HTTP, JSON and Thrift) and modern source control (Git).
-    - As MyLife's current and future needs became apparent, I developed a low latency, highly available and scalable search solution based on Cassandra and Solr. MyLife's new search platform removed the need for deployment of Lucene indexes, which effectively eliminated high-latency delivery of our search service. The search service was always up to date within the past 10 minutes. The new search service was an HTTP based service-oriented-architecture written primarily in Python using capistrano for deployment and [Supervisor](http://supervisord.org/) for administration.
-    - I developed a scalable geocoding system using MapReduce and an in memory cash to vastly improve performance and minimize network calls.
+    - As MyLife's current and future needs became apparent, I developed a low-latency, highly available and scalable search solution based on Cassandra and Solr. MyLife's new search platform removed the need for deployment of Lucene indexes, which effectively eliminated high-latency delivery of our search service. The search service was always up to date within the past 10 minutes, down from monthly previously. The new search service was an HTTP-based service-oriented-architecture written primarily in Python using capistrano for deployment and [Supervisor](http://supervisord.org/) for administration.
+    - Implemented a JSON-sensitive diff to immensely simplify data quality checking.
+    - Combined Haskell's QuickCheck library and siege to benchmark whole system performance with property-based test cases.
+    - I developed a scalable geocoding system using MapReduce and an in memory cache to vastly improve performance and minimize network calls.
 
 * **Prospectus Group** (Portland, Oregon)
 
     Systems Administrator, March 2006 -- August 2006
 
-    - As a systems administrator, I installed and configured a small secure network of 5 Linux servers. I also managed our production website with a perl-based Content Management System.
+    - As a systems administrator, I installed and configured a small secure network of 5 Linux servers. I also managed our production website with a Perl-based Content Management System.
 
 * **Pacific Benefits Group**
 
     Information Technology Intern, November 2005 -- March 2006
 
     - As an information technology intern, I built, installed, and configured 50 workstations. Additionally, I managed specialized insurance data mining tools.
+    - Co-managed the company email server and backups.
 
 Research
 ---------------
@@ -74,9 +92,9 @@ Research
 
     Graduate Research Assistant: [ITS Lab](http://its.pdx.edu/), January 2008 -- August 2009
 
-    - As a graduate research assistant, I classiffied and discovered data gaps, automated daily discovery of erroneous readings, and began work on a time dependent view of overall transit system health. I primarily used PHP, SQL, and Haskell to discover and present the information.
-    - Co-authored and presented Transit Performance Measurement and Arterial Travel Time Estimation Using Archived AVL Data
-    - Managed several database tables with millions of records
+    - As a graduate research assistant, I classified and discovered data gaps, automated daily discovery of erroneous readings, and began work on a time dependent view of overall transit system health. I primarily used PHP, SQL, and Haskell to discover and present the information.
+    - Co-authored and presented Transit Performance Measurement and Arterial Travel Time Estimation Using Archived AVL Data.
+    - Managed several database tables with millions of records.
 
 * **Portland State University, Department of Computer Science** (Portland, Oregon)
 
@@ -86,21 +104,30 @@ Research
 * **Portland State University, Department of Civil Engineering** (Portland, Oregon)
 
     Undergraduate Research Assistant: [ITS Lab](http://its.pdx.edu/), November 2006 -- December 2008
-    - As an undergraduate research assistant on the [Portland Oregon Regional Transportation Archive Listing (PORTAL)](http://portal.its.pdx.edu/Portal/index.php/home/) project, I created a web application using AJAX, PostgreSQL, PHP that displayed archived public transit system data on a Google map. I also helped process, aggregate, and query traffic data using Python.
+    - As an undergraduate research assistant on the [Portland Oregon Regional Transportation Archive Listing (PORTAL)](http://portal.its.pdx.edu/Portal/index.php/home/) project, I created a web application using AJAX, PostgreSQL, PHP that displayed archived, geocoded, public transit system data on a Google map. I also helped process, aggregate, and query traffic and geospatial data using Python.
 
 ## Education
 
-*   **Portland State University**, Portland, Oregon
+* **San Mateo Community College District** (Redwood City, California)
+
+    Student, August 2017 -- May 2019
+
+    - Completed pre-medical classes at Cañada college and UC Berkeley.
+    - Biology courses: Principles of Biology, Biology of organisms, Cell & molecular biology, Biological chemistry (at UC Berkeley extension).
+    - Chemistry courses: General chemistry, Organic chemistry.
+    - Applied and interviewed for MD, Post-baccalaureate, and Master's programs at medical schools for the '19, '21, and '22 application cycles.
+
+* **Portland State University**, Portland, Oregon
 
     M.S. in Computer Science; Advisor: [Bart Massey](http://web.cecs.pdx.edu/~bart/), GPA: 3.78, June 2009
 
 
-*   **Portland State University**, Portland, Oregon
+* **Portland State University**, Portland, Oregon
 
     B.S. in Computer Science; Minor: Mathematics, _Cum Laude_, March 2008
 
 
-*   **Portland Community College**, Portland, Oregon
+* **Portland Community College**, Portland, Oregon
 
     A.S., June 2004
 
