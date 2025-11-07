@@ -2,41 +2,71 @@
 <h2 id="interests">Interests</h2>
 <ul>
 <li>Understanding abstractions, applying them in practice. Writing
-simple code. Writing robust code.</li>
+simple and robust code.</li>
+</ul>
+<h3 id="skills">Skills</h3>
+<ul>
+<li><strong>Programming Languages</strong> – Haskell, Python, bash,
+SQL</li>
+<li><strong>Development Environment</strong> – vim, git, nix, Linux</li>
 </ul>
 <h2 id="professional-experience">Professional Experience</h2>
 <ul>
-<li><p><strong>San Mateo Community College District</strong> (Redwood
-City, California)</p>
-<p>Student, August 2017 – May 2019</p>
+<li><p><strong>Self-employed</strong> (Portland, Oregon)</p>
+<p>Independent Software Specialist, Part-time, August 2023 – Present</p>
 <ul>
-<li>Completed pre-medical classes at Cañada college and UC
-Berkeley.</li>
-<li>Biology courses: Principles of Biology, Biology of organisms, Cell
-&amp; molecular biology, Biological chemistry (at UC Berkeley
-extension)</li>
-<li>Chemistry courses: General chemistry, Organic chemistry</li>
+<li>Developing an audiotheque app in the Protestant resourcement space,
+bringing Reformation authors and ideas into the 21st century.</li>
+<li>Also developing an offline-now, sync-later, privacy-first
+application to store all your memes.</li>
+<li>Provided ad hoc technical advising and support for Macintosh
+desktops and iPads, Google Workspace (Voice, Gmail, Groups primarily)
+for a 200+ user deployment.</li>
+<li>Contributed volunteer hours to the digital ministry of New Community
+Baptist Church, crafting and maintaining the website, YouTube live
+streams, and recordings.</li>
+<li>Maintainer of open-source Haskell projects: haskell-cgi (pure CGI
+bindings for Haskell) and stats (command-line statistics for plaintext
+numerical data) since 2016.</li>
+<li>Various GitHub contributions for proprietary and open-source
+projects: probabilistic data structures and automated build tools.</li>
+</ul></li>
+<li><p><strong>RealOptions</strong> (San José, California)</p>
+<p>Optimal Health Coach, Part-time, February 2019 – September 2021</p>
+<ul>
 <li>Provided Optimal Health coaching to male patients at RealOptions
 Obria Medical Clinics by encouraging and advising STI and crisis
-pregnancy patients from February 2019 – September 2021</li>
-<li>Applied and interviewed for MD, Post-baccalaureate, and Master’s
-programs at medical schools.</li>
+pregnancy patients.</li>
+<li>Maintained a clean and organized clinic environment by sanitizing
+exam rooms, restocking supplies, and preparing client care packages with
+essentials like hygiene products and educational materials, ensuring a
+welcoming and efficient space for clients.</li>
+<li>Entered and updated client intake data, medical histories, and
+service records in EMR systems, adhering to HIPAA regulations, while
+troubleshooting minor system issues to support seamless clinic
+operations.</li>
+<li>Documented client information and medical notes in paper-based
+charts, organizing and archiving records to ensure compliance with
+confidentiality and retention policies.</li>
 </ul></li>
 <li><p><strong>Snowflake Computing</strong> (San Mateo, California)</p>
 <p>Software Engineer Automation &amp; Tools, April 2016 – August
 2017</p>
 <ul>
-<li>Working with the Automation &amp; Tools team at Snowflake I
+<li>Working with the Automation &amp; Tools team at Snowflake, I
 initiated adoption of reproducible, versionable, reviewable Jenkins job
 descriptions with the <a
 href="https://github.com/jenkinsci/job-dsl-plugin">jobs dsl
 plugin</a>.</li>
-<li>I secured &amp; isolated Jenkins using its off the shelf LDAP
-security integration and an in-house <a
+<li>Conducted the automated build and test of the main Snowflake
+products: database, user interface, and database drivers for both
+Windows and Unix-like operating systems.</li>
+<li>Secured &amp; isolated Jenkins using its off-the-shelf LDAP security
+integration and an in-house <a
 href="https://www.vaultproject.io">Vault</a>-inspired authentication
 tool.</li>
-<li>I managed &amp; advised OSS teams transitioning from internal source
-&amp; build tools to Github &amp; Travis CI.</li>
+<li>Managed &amp; advised OSS teams transitioning from internal source
+&amp; build tools to GitHub &amp; Travis CI.</li>
 <li>Left Snowflake to pursue pre-medical coursework and apply to medical
 school.</li>
 </ul></li>
@@ -47,17 +77,19 @@ school.</li>
 I contributed to <a href="https://www.pantsbuild.org/">Pants</a>
 Twitter’s monolithic build system.</li>
 <li>As a member of the platform intelligence team I contributed to <a
-href="https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html">TSAR</a>
-the Time Series AggregatoR. During my time on Platform Intelligence I
-also took the opportunity to contribute to the <a
+href="https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html">TSAR</a>,
+an Apache Spark-like, Time Series AggregatoR.</li>
+<li>During my time with Platform Intelligence I also took the
+opportunity to contribute to the <a
 href="https://twitter.github.io/algebird/">Algebird</a> project TSAR
 relied upon for its probabilistic data structures.</li>
 <li>On the <a
 href="https://www.linux.com/blog/twitters-chargeback-system-measures-resource-use-and-sends-out-bill">chargeback</a>
-team at Twitter I co-architected a datawarehouse to store facts related
+team at Twitter I co-architected a data warehouse to store facts related
 to usage and user and project identification. Additionally, I built a
-simple data gathering system that extracted raw chargeback-related data
-from a diverse population of systems.</li>
+simple data gathering system that extracted, transformed, and loaded raw
+chargeback-related data (CPU, RAM, telemetry) from a diverse population
+of systems to vertica and mysql data warehouses.</li>
 </ul></li>
 <li><p><strong>MyLife</strong> (Mountain View, California)</p>
 <p>Software Engineer, May 2010 – January 2013</p>
@@ -70,16 +102,20 @@ geocoding solution for our document corpus. I advocated for the use of
 open standards (HTTP, JSON and Thrift) and modern source control
 (Git).</li>
 <li>As MyLife’s current and future needs became apparent, I developed a
-low latency, highly available and scalable search solution based on
+low-latency, highly available and scalable search solution based on
 Cassandra and Solr. MyLife’s new search platform removed the need for
 deployment of Lucene indexes, which effectively eliminated high-latency
 delivery of our search service. The search service was always up to date
-within the past 10 minutes. The new search service was an HTTP based
-service-oriented-architecture written primarily in Python using
-capistrano for deployment and <a
+within the past 10 minutes, down from monthly previously. The new search
+service was an HTTP-based service-oriented-architecture written
+primarily in Python using capistrano for deployment and <a
 href="http://supervisord.org/">Supervisor</a> for administration.</li>
+<li>Implemented a JSON-sensitive diff to immensely simplify data quality
+checking.</li>
+<li>Combined Haskell’s QuickCheck library and siege to benchmark whole
+system performance with property-based test cases.</li>
 <li>I developed a scalable geocoding system using MapReduce and an in
-memory cash to vastly improve performance and minimize network
+memory cache to vastly improve performance and minimize network
 calls.</li>
 </ul></li>
 <li><p><strong>Prospectus Group</strong> (Portland, Oregon)</p>
@@ -87,7 +123,7 @@ calls.</li>
 <ul>
 <li>As a systems administrator, I installed and configured a small
 secure network of 5 Linux servers. I also managed our production website
-with a perl-based Content Management System.</li>
+with a Perl-based Content Management System.</li>
 </ul></li>
 <li><p><strong>Pacific Benefits Group</strong></p>
 <p>Information Technology Intern, November 2005 – March 2006</p>
@@ -95,6 +131,7 @@ with a perl-based Content Management System.</li>
 <li>As an information technology intern, I built, installed, and
 configured 50 workstations. Additionally, I managed specialized
 insurance data mining tools.</li>
+<li>Co-managed the company email server and backups.</li>
 </ul></li>
 </ul>
 <h2 id="research">Research</h2>
@@ -119,13 +156,13 @@ Engineering</strong> (Portland, Oregon)</p>
 <p>Graduate Research Assistant: <a href="http://its.pdx.edu/">ITS
 Lab</a>, January 2008 – August 2009</p>
 <ul>
-<li>As a graduate research assistant, I classiffied and discovered data
+<li>As a graduate research assistant, I classified and discovered data
 gaps, automated daily discovery of erroneous readings, and began work on
 a time dependent view of overall transit system health. I primarily used
 PHP, SQL, and Haskell to discover and present the information.</li>
 <li>Co-authored and presented Transit Performance Measurement and
-Arterial Travel Time Estimation Using Archived AVL Data</li>
-<li>Managed several database tables with millions of records</li>
+Arterial Travel Time Estimation Using Archived AVL Data.</li>
+<li>Managed several database tables with millions of records.</li>
 </ul></li>
 <li><p><strong>Portland State University, Department of Computer
 Science</strong> (Portland, Oregon)</p>
@@ -144,13 +181,28 @@ Lab</a>, November 2006 – December 2008</p>
 <li>As an undergraduate research assistant on the <a
 href="http://portal.its.pdx.edu/Portal/index.php/home/">Portland Oregon
 Regional Transportation Archive Listing (PORTAL)</a> project, I created
-a web application using AJAX, PostgreSQL, PHP that displayed archived
-public transit system data on a Google map. I also helped process,
-aggregate, and query traffic data using Python.</li>
+a web application using AJAX, PostgreSQL, PHP that displayed archived,
+geocoded, public transit system data on a Google map. I also helped
+process, aggregate, and query traffic and geospatial data using
+Python.</li>
 </ul></li>
 </ul>
 <h2 id="education">Education</h2>
 <ul>
+<li><p><strong>San Mateo Community College District</strong> (Redwood
+City, California)</p>
+<p>Student, August 2017 – May 2019</p>
+<ul>
+<li>Completed pre-medical classes at Cañada college and UC
+Berkeley.</li>
+<li>Biology courses: Principles of Biology, Biology of organisms, Cell
+&amp; molecular biology, Biological chemistry (at UC Berkeley
+extension).</li>
+<li>Chemistry courses: General chemistry, Organic chemistry.</li>
+<li>Applied and interviewed for MD, Post-baccalaureate, and Master’s
+programs at medical schools for the ’19, ’21, and ’22 application
+cycles.</li>
+</ul></li>
 <li><p><strong>Portland State University</strong>, Portland, Oregon</p>
 <p>M.S. in Computer Science; Advisor: <a
 href="http://web.cecs.pdx.edu/~bart/">Bart Massey</a>, GPA: 3.78, June
