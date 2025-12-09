@@ -13,6 +13,9 @@ Interests
 ### Skills
 *   **Programming Languages** -- Haskell, Python, bash, SQL
 *   **Development Environment** -- vim, git, nix, Linux
+TODO add github and linkedin links
+https://www.linkedin.com/in/johnchee/
+https://github.com/cheecheeo
 
 
 Professional Experience
@@ -41,6 +44,7 @@ Professional Experience
 
     Software Engineer Automation & Tools, April 2016 -- August 2017
 
+    - TODO: architected and proof-of-concepted a transition away from centralized source code repository to a distributed source code repository (svn to git, and compatibility software)
     - Working with the Automation & Tools team at Snowflake, I initiated adoption of reproducible, versionable, reviewable Jenkins job descriptions with the [jobs dsl plugin](https://github.com/jenkinsci/job-dsl-plugin).
     - Conducted the automated build and test of the main Snowflake products: database, user interface, and database drivers for both Windows and Unix-like operating systems.
     - Secured & isolated Jenkins using its off-the-shelf LDAP security integration and an in-house [Vault](https://www.vaultproject.io)-inspired authentication tool.
@@ -51,6 +55,13 @@ Professional Experience
 
     Software Engineer, January 2013 -- March 2016
 
+    - TODO: add RoR work - histology - bugs related to git commits/file changes, what change caused an incident.
+    - TODO: also RoR interface showing commit and CI status - like a status page - mono repo intelligence.
+    - TODO: capistrano
+    - TODO: add python work - chargeback team, track deployments, crawling stats, mesos
+    - TODO: Haskell + servant python on-demand crawl rewrite, on-demand and cron-crawl - daily through 6 hours. mysql cache/queue implemented.
+    - TODO: twitter project that killed projects and restarted them apache aurora predecessor (pre-mesos)?
+    - TODO: break ETL line into two - bespoke ETL
     - As a Software Engineer on the developer productivity team at Twitter I contributed to [Pants](https://www.pantsbuild.org/) Twitter's monolithic build system.
     - As a member of the platform intelligence team I contributed to [TSAR](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html), an Apache Spark-like, Time Series AggregatoR.
     - During my time with Platform Intelligence I also took the opportunity to contribute to the [Algebird](https://twitter.github.io/algebird/) project TSAR relied upon for its probabilistic data structures.
@@ -60,6 +71,7 @@ Professional Experience
 
     Software Engineer, May 2010 -- January 2013
 
+    - TODO: backups software - rotated older and older backups of the search index - disaster recovery bullet point or two.
     - As a Software Engineer, I accepted the task of development, automation and deployment of our search service to our front end team. This involved developing expertise with Hadoop, Lucene and an internal MapReduce flow control tool. I developed a scalable Hadoop-based geocoding solution for our document corpus. I advocated for the use of open standards (HTTP, JSON and Thrift) and modern source control (Git).
     - As MyLife's current and future needs became apparent, I developed a low-latency, highly available and scalable search solution based on Cassandra and Solr. MyLife's new search platform removed the need for deployment of Lucene indexes, which effectively eliminated high-latency delivery of our search service. The search service was always up to date within the past 10 minutes, down from monthly previously. The new search service was an HTTP-based service-oriented-architecture written primarily in Python using capistrano for deployment and [Supervisor](http://supervisord.org/) for administration.
     - Implemented a JSON-sensitive diff to immensely simplify data quality checking.
